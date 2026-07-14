@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Repository.
 <br>
-Author - Mahi Manvith
+Author - Mahi Manvith(editor)
